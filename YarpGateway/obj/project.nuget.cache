@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "FB/rggCTgmTcmS4KX3m/Uf8I2I8eyv1tAQIXHvIf4O7W1S4mVu9AAfinLOxVf/okCgKwbA9iIoJ+MMD2FSBxfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\YarpGateway\\YarpGateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\microsoft.bcl.timeprovider\\8.0.0\\microsoft.bcl.timeprovider.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\system.io.hashing\\8.0.0\\system.io.hashing.8.0.0.nupkg.sha512",
+    "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\yarp.reverseproxy\\2.3.0\\yarp.reverseproxy.2.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

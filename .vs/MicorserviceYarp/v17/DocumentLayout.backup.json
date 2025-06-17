@@ -1,0 +1,821 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\data\\venuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\data\\venuedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\model\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\model\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\model\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\eventservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\eventservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\application\\cancelticketreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\application\\cancelticketreservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\application\\createticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\application\\createticketcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\application\\markticketaspaidcommand .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\application\\markticketaspaidcommand .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\command\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\command\\updateeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\data\\ticketdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\model\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\command\\addtickettypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\command\\addtickettypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Migrations\\20250615160256_InitialTicketMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Provider\\Migrations\\20250615160256_InitialTicketMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\data\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\model\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\model\\tickettype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\command\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\command\\createeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\query\\geteventbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\query\\geteventbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\query\\getalleventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\query\\getalleventsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patient\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615152948_InitialTicketMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patient\\Migrations\\20250615152948_InitialTicketMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\ticketservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\ticketservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\application\\command\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\application\\command\\deleteeventcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\migrations\\20250615130643_initialeventmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\migrations\\20250615130643_initialeventmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\venueservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\venueservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\yarpgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|solutionrelative:yarpgateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\yarpgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|solutionrelative:yarpgateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\venueservice\\venueservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E73E2180-F982-48AE-9C51-D608B353C465}|VenueService\\VenueService.csproj|solutionrelative:venueservice\\venueservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\yarpgateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|solutionrelative:yarpgateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\yarpgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDB41443-AB28-4C73-A2B2-B0D60243679E}|YarpGateway\\YarpGateway.csproj|solutionrelative:yarpgateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\ticketservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\ticketservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\patient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44871A69-B087-4D15-B569-3217193C30F9}|Patient\\TicketService.csproj|solutionrelative:patient\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|c:\\users\\lenovo\\desktop\\microservice\\micorserviceyarp\\provider\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A95517AE-B4A7-43B8-975D-13295312DAF2}|Provider\\EventService.csproj|solutionrelative:provider\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250615164718_InitialvenueMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs",
+              "RelativeDocumentMoniker": "VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs",
+              "RelativeToolTip": "VenueService\\Migrations\\20250615164718_InitialvenueMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:47:19.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\appsettings.json",
+              "RelativeDocumentMoniker": "VenueService\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\appsettings.json",
+              "RelativeToolTip": "VenueService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T16:45:27.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VenueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Data\\VenueDbContext.cs",
+              "RelativeDocumentMoniker": "VenueService\\Data\\VenueDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Data\\VenueDbContext.cs",
+              "RelativeToolTip": "VenueService\\Data\\VenueDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:41:21.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Model\\Venue.cs",
+              "RelativeDocumentMoniker": "VenueService\\Model\\Venue.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Model\\Venue.cs",
+              "RelativeToolTip": "VenueService\\Model\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:39:57.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CancelTicketReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\CancelTicketReservationCommand.cs",
+              "RelativeDocumentMoniker": "Patient\\Application\\CancelTicketReservationCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\CancelTicketReservationCommand.cs",
+              "RelativeToolTip": "Patient\\Application\\CancelTicketReservationCommand.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:17:29.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTicketCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\CreateTicketCommand.cs",
+              "RelativeDocumentMoniker": "Patient\\Application\\CreateTicketCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\CreateTicketCommand.cs",
+              "RelativeToolTip": "Patient\\Application\\CreateTicketCommand.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:00:12.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "VenueService\\Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "VenueService\\Controllers\\VenueController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:28:10.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Program.cs",
+              "RelativeDocumentMoniker": "VenueService\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Program.cs",
+              "RelativeToolTip": "VenueService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:45:20.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Provider\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Provider\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:10.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\UpdateEventCommand.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Command\\UpdateEventCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\UpdateEventCommand.cs",
+              "RelativeToolTip": "Provider\\Application\\Command\\UpdateEventCommand.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:14:46.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventService",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\EventService.csproj",
+              "RelativeDocumentMoniker": "Provider\\EventService.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\EventService.csproj",
+              "RelativeToolTip": "Provider\\EventService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T11:46:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Model\\Event.cs",
+              "RelativeDocumentMoniker": "Provider\\Model\\Event.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Model\\Event.cs",
+              "RelativeToolTip": "Provider\\Model\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:17:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MarkTicketAsPaidCommand .cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\MarkTicketAsPaidCommand .cs",
+              "RelativeDocumentMoniker": "Patient\\Application\\MarkTicketAsPaidCommand .cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Application\\MarkTicketAsPaidCommand .cs",
+              "RelativeToolTip": "Patient\\Application\\MarkTicketAsPaidCommand .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:21:28.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250615161404_InitialTicketandotherMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs",
+              "RelativeDocumentMoniker": "Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs",
+              "RelativeToolTip": "Patient\\Migrations\\20250615161404_InitialTicketandotherMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:14:04.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Patient\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Patient\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:10.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TicketDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Data\\TicketDbContext.cs",
+              "RelativeDocumentMoniker": "Patient\\Data\\TicketDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Data\\TicketDbContext.cs",
+              "RelativeToolTip": "Patient\\Data\\TicketDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T14:59:22.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Program.cs",
+              "RelativeDocumentMoniker": "Patient\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Program.cs",
+              "RelativeToolTip": "Patient\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:10.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Model\\Ticket.cs",
+              "RelativeDocumentMoniker": "Patient\\Model\\Ticket.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Model\\Ticket.cs",
+              "RelativeToolTip": "Patient\\Model\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:31:19.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetEventByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Query\\GetEventByIdQuery.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Query\\GetEventByIdQuery.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Query\\GetEventByIdQuery.cs",
+              "RelativeToolTip": "Provider\\Application\\Query\\GetEventByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:13:22.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250615160256_InitialTicketMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Migrations\\20250615160256_InitialTicketMigration.cs",
+              "RelativeDocumentMoniker": "Provider\\Migrations\\20250615160256_InitialTicketMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Migrations\\20250615160256_InitialTicketMigration.cs",
+              "RelativeToolTip": "Provider\\Migrations\\20250615160256_InitialTicketMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:02:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddTicketTypeCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\AddTicketTypeCommand.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Command\\AddTicketTypeCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\AddTicketTypeCommand.cs",
+              "RelativeToolTip": "Provider\\Application\\Command\\AddTicketTypeCommand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:07:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TicketType.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Model\\TicketType.cs",
+              "RelativeDocumentMoniker": "Provider\\Model\\TicketType.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Model\\TicketType.cs",
+              "RelativeToolTip": "Provider\\Model\\TicketType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:59:15.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\CreateEventCommand.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Command\\CreateEventCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\CreateEventCommand.cs",
+              "RelativeToolTip": "Provider\\Application\\Command\\CreateEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:20:08.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Data\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "Provider\\Data\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Data\\EventDbContext.cs",
+              "RelativeToolTip": "Provider\\Data\\EventDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:18:18.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetAllEventsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Query\\GetAllEventsQuery.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Query\\GetAllEventsQuery.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Query\\GetAllEventsQuery.cs",
+              "RelativeToolTip": "Provider\\Application\\Query\\GetAllEventsQuery.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:23:02.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\appsettings.json",
+              "RelativeDocumentMoniker": "Provider\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\appsettings.json",
+              "RelativeToolTip": "Provider\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Program.cs",
+              "RelativeDocumentMoniker": "Provider\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Program.cs",
+              "RelativeToolTip": "Provider\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:26:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\appsettings.json",
+              "RelativeDocumentMoniker": "Patient\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\appsettings.json",
+              "RelativeToolTip": "Patient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250615152948_InitialTicketMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615152948_InitialTicketMigration.cs",
+              "RelativeDocumentMoniker": "Patient\\Migrations\\20250615152948_InitialTicketMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Migrations\\20250615152948_InitialTicketMigration.cs",
+              "RelativeToolTip": "Patient\\Migrations\\20250615152948_InitialTicketMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:29:48.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\libman.json",
+              "RelativeDocumentMoniker": "Patient\\libman.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\libman.json",
+              "RelativeToolTip": "Patient\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T15:31:07.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TicketService",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\TicketService.csproj",
+              "RelativeDocumentMoniker": "Patient\\TicketService.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\TicketService.csproj",
+              "RelativeToolTip": "Patient\\TicketService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T11:45:32.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DeleteEventCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\DeleteEventCommand.cs",
+              "RelativeDocumentMoniker": "Provider\\Application\\Command\\DeleteEventCommand.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Application\\Command\\DeleteEventCommand.cs",
+              "RelativeToolTip": "Provider\\Application\\Command\\DeleteEventCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:15:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250615130643_InitialEventMigration.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Migrations\\20250615130643_InitialEventMigration.cs",
+              "RelativeDocumentMoniker": "Provider\\Migrations\\20250615130643_InitialEventMigration.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Migrations\\20250615130643_InitialEventMigration.cs",
+              "RelativeToolTip": "Provider\\Migrations\\20250615130643_InitialEventMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T13:06:44.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "VenueService",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\VenueService.csproj",
+              "RelativeDocumentMoniker": "VenueService\\VenueService.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\VenueService.csproj",
+              "RelativeToolTip": "VenueService\\VenueService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T11:42:03.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Event.cs",
+              "RelativeDocumentMoniker": "Provider\\Event.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Event.cs",
+              "RelativeToolTip": "Provider\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:09.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "YarpGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\appsettings.json",
+              "RelativeToolTip": "YarpGateway\\appsettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Patient\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Patient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\Program.cs",
+              "RelativeDocumentMoniker": "YarpGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\Program.cs",
+              "RelativeToolTip": "YarpGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Provider\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Provider\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "VenueService",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\VenueService.csproj",
+              "RelativeDocumentMoniker": "VenueService\\VenueService.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\VenueService.csproj",
+              "RelativeToolTip": "VenueService\\VenueService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T11:24:10.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VenueService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\VenueService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VenueService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "YarpGateway\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\appsettings.Development.json",
+              "RelativeToolTip": "YarpGateway\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "YarpGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\YarpGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "YarpGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAIBJwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Patient\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\appsettings.Development.json",
+              "RelativeToolTip": "Patient\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TicketService",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\TicketService.csproj",
+              "RelativeDocumentMoniker": "Patient\\TicketService.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Patient\\TicketService.csproj",
+              "RelativeToolTip": "Patient\\TicketService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-15T11:24:10.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Provider\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\appsettings.Development.json",
+              "RelativeToolTip": "Provider\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T11:24:10.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Provider\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\microservice\\MicorserviceYarp\\Provider\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Provider\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T11:24:10.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

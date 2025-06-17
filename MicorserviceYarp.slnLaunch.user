@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Patient\\TicketService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Provider\\EventService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "YarpGateway\\YarpGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "VenueService\\VenueService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
