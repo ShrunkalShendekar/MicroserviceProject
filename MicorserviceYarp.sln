@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketService", "Patient\TicketService.csproj", "{44871A69-B087-4D15-B569-3217193C30F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicketService", "TicketService\TicketService.csproj", "{44871A69-B087-4D15-B569-3217193C30F9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventService", "Provider\EventService.csproj", "{A95517AE-B4A7-43B8-975D-13295312DAF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventService", "EventService\EventService.csproj", "{A95517AE-B4A7-43B8-975D-13295312DAF2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YarpGateway", "YarpGateway\YarpGateway.csproj", "{CDB41443-AB28-4C73-A2B2-B0D60243679E}"
 EndProject

@@ -1,7 +1,7 @@
-using EventService.Application.Command;
-using EventService.Data;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
+using TicketService.Application;
+using TicketService.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +11,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddDbContext<EventDbContext>(options =>
+builder.Services.AddDbContext<TicketDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddMediatR(typeof(CreateEventHandler).Assembly); // Or typeof(Program)
+builder.Services.AddMediatR(typeof(CreateTicketHandler).Assembly); // Or typeof(Program)
 
 var app = builder.Build();
 

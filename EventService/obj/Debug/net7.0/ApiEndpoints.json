@@ -1,56 +1,34 @@
 [
   {
-    "ContainingType": "TicketService.Controllers.TicketController",
-    "Method": "GetById",
-    "RelativePath": "api/Ticket/{id}",
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "Create",
+    "RelativePath": "api/Event",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "EventService.Application.Command.CreateEventCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "GetAll",
+    "RelativePath": "api/Event",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TicketService.Controllers.TicketController",
-    "Method": "Cancel",
-    "RelativePath": "api/Ticket/{id}/cancel",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TicketService.Controllers.TicketController",
-    "Method": "Pay",
-    "RelativePath": "api/Ticket/{id}/pay",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TicketService.Controllers.TicketController",
-    "Method": "GetAvailableTickets",
-    "RelativePath": "api/Ticket/availability/{eventId}",
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "GetRemainingCapacity",
+    "RelativePath": "api/Event/{eventId}/capacity",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -64,23 +42,81 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "TicketService.Controllers.TicketController",
-    "Method": "Reserve",
-    "RelativePath": "api/Ticket/reserve",
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "AddTicketType",
+    "RelativePath": "api/Event/{eventId}/ticket-types",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
+        "Name": "eventId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
         "Name": "command",
-        "Type": "TicketService.Application.CreateTicketCommand",
+        "Type": "EventService.Application.Command.AddTicketTypeCommand",
         "IsRequired": true
       }
     ],
     "ReturnTypes": []
   },
   {
-    "ContainingType": "Patient.Controllers.WeatherForecastController",
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "Update",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "EventService.Application.Command.UpdateEventCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "GetById",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Provider.Controllers.EventController",
+    "Method": "Delete",
+    "RelativePath": "api/Event/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Provider.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
     "HttpMethod": "GET",
@@ -89,7 +125,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Patient.WeatherForecast, TicketService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Provider.WeatherForecast, EventService, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",

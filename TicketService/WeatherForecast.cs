@@ -1,4 +1,4 @@
-namespace Provider
+namespace Patient
 {
     public class WeatherForecast
     {

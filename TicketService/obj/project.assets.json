@@ -3517,11 +3517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\Provider\\EventService.csproj",
-      "projectName": "EventService",
-      "projectPath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\Provider\\EventService.csproj",
+      "projectUniqueName": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\TicketService\\TicketService.csproj",
+      "projectName": "TicketService",
+      "projectPath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\TicketService\\TicketService.csproj",
       "packagesPath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\Provider\\obj\\",
+      "outputPath": "C:\\Users\\shrunkalshendekar.SDEICHD0\\Desktop\\Assessment\\MicorserviceYarp\\TicketService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\shrunkalshendekar.SDEICHD0\\AppData\\Roaming\\NuGet\\NuGet.Config",

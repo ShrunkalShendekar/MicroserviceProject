@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Patient.Controllers
+namespace Provider.Controllers
 {
     [ApiController]
     [Route("[controller]")]
